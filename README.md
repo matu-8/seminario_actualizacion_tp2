@@ -1,0 +1,2 @@
+# Aplicacion de linea de comandos - Práctica con Arreglos
+En el repositorio se encuentran dos carpetas, tp_js (correspondiente a la implementacion en lenguaje javascript), y tp_py (correspondiente a la implementación en lenguaje python)
